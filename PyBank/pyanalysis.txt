@@ -1,7 +1,0 @@
-Financial Analysis 
-......................................... 
-Total months = 86 
-Net revenue = 38382578.0 
-Average monthly change in revenue = -2315.1176470588234 
-Max revenue gain = Jan-2012 1926159.0 
-Max revenue loss = Aug-2013 -2196167.0 
